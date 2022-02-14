@@ -1,0 +1,68 @@
+#shoeimg{
+	width: 75%;
+    margin: 5%;
+    padding-left: 15%;
+}
+.amalogo{
+    margin-left: 2%;
+}
+.nav-link{
+    margin: 0 8%;
+    border-bottom: 2px;
+}
+.second{
+    margin-bottom: 2%;
+}
+.dpd{
+    float: right;
+}
+.heady{
+    padding: 3% 3% 2% 3%;
+}
+.heady>p{
+    padding: 1% 12% 0 12%;
+}
+.col-6{
+    height: 5%;
+    width: 10%;
+}
+hr{
+    width: 50px;
+    height: 2px;
+    background: gray;
+    margin: 0 auto 3% auto;
+}
+#shoestar{
+    background-color: rgb(255 254 7 / 33%);
+    color: #ffb307;
+    border-radius: 3px;
+    padding: 0 7%;
+    text-align: center;
+    margin-left: 60%;
+}
+.col{
+    display: flex;
+}
+#shoeprice{
+    color: #ef091f;;
+    font-weight: 700;
+    font-size: x-large;
+}
+a.nav-link:hover {
+    border-bottom: 1px solid whitesmoke;
+}
+.album{
+    padding-top: 2rem;;
+}
+#totalproduct{
+    font-weight: 800;
+}
+.header>h1{
+    font-weight: bolder;
+}
+.header>p{
+    font-weight: 600;
+}
+#sortby{
+    margin: auto 3%;
+}
